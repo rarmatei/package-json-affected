@@ -1,6 +1,6 @@
 ## Issue
 
-Changes to a dependency in `package.json` should not affect apps that do not use it.
+Should changes to a dependency in `package.json` affect apps that do not use it?
 
 We have two apps:
 - `car-store`
