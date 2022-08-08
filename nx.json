@@ -8,10 +8,6 @@
     "packageManager": "npm"
   },
   "implicitDependencies": {
-    "package.json": {
-      "dependencies": "*",
-      "devDependencies": "*"
-    },
     ".eslintrc.json": "*"
   },
   "tasksRunnerOptions": {
